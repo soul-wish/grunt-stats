@@ -34,7 +34,8 @@
     "eslint-plugin-import": "^1.12.0",
     "file-size": "^1.0.0",
     "grunt-contrib-nodeunit": "^0.3.3",
-    "grunt": "~0.4.5"
+    "grunt": "~0.4.5",
+    "grunt-cli": "^1.2.0"
   },
   "keywords": [
     "gruntplugin",
