@@ -1,7 +1,7 @@
 {
   "name": "grunt-stats",
   "description": "Display files statistic for separate directories in your project.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https://github.com/soul-wish/grunt-stats",
   "author": {
     "name": "Sergey Lysenko",
